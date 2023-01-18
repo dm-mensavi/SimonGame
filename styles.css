@@ -108,7 +108,7 @@ h4 {
 	margin: 10px;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 450px) {
 	.btn {
 		margin: 2px;
 		height: 100px;
