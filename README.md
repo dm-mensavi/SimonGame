@@ -1,6 +1,6 @@
 # SimonGame
 
-This site is live at site is live at https://dm-mensavi.github.io/SimonGame/
+This site is live at https://dm-mensavi.github.io/SimonGame/
 
 ## About Simon game and how to play
 
